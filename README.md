@@ -12,19 +12,10 @@
   - `seaborn` для визуализации
   - `numpy` для математических операций
 
-## 🚀 Как запустить проект
-1. Скачайте или клонируйте репозиторий.
-2. Убедитесь, что у вас установлен Python версии 3.8 или выше.
-3. Установите необходимые зависимости:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Откройте Jupyter Notebook и выполните ячейки в файле `HH_Project.ipynb`.
 
 ## 📂 Структура проекта
 - `HH_Project.ipynb`: основной файл проекта.
-- `data/`: папка для хранения исходных данных.
-- `requirements.txt`: список зависимостей для установки.
+-  images -  графики
 
 ## 🧩 Основные этапы работы
 1. Загрузка данных.
@@ -32,7 +23,7 @@
 3. Визуализация ключевых метрик.
 
 ## 🌟 Результаты
-Проект помогает выявить ключевые закономерности в данных о резюме, что может быть полезно для HR-анализа и улучшения процесса подбора персонала.
+Проект помогает выявить ключевые закономерности в данных о резюме, что может быть полезно для HR-анализа и улучшения процесса подбора персонала. Так же такой анализ и подготовка данных могут быть полезны для создания рекоммендательной системы, предсказывающей уровень зарплат кандидатов, не указавших зп ожидания в своих резюме, эти данные могут быть полезны для работодателей при поиске кандидатов.
 
 ---
 
@@ -48,19 +39,10 @@ This project analyzes resumes from the HeadHunter platform using Python for data
   - `seaborn`
   - `numpy`
 
-## 🚀 How to Run
-1. Clone the repository.
-2. Install Python 3.8+.
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open `HH_Project.ipynb` in Jupyter Notebook and execute the cells.
 
 ## 📂 Project Structure
 - `HH_Project.ipynb`: main notebook file.
-- `data/`: folder for input data.
-- `requirements.txt`: dependencies.
+- `images/`: graphs
 
 ## 🌟 Results
 The project identifies patterns in resume data, supporting HR analysis and recruitment improvement.
